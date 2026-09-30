@@ -1,0 +1,6 @@
+{
+  "name": "SignBridge",
+  "description": "AI-powered real-time sign language translation bridge connecting deaf, hard-of-hearing, and hearing individuals across ASL, ISL, BSL, JSL, and speech.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

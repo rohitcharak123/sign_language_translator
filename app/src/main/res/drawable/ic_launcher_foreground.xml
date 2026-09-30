@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:aapt="http://schemas.android.com/aapt"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <group
+        android:pivotX="54"
+        android:pivotY="54">
+        <!-- Connecting Bridge Arc -->
+        <path
+            android:pathData="M28,68 C38,40 70,40 80,68"
+            android:strokeWidth="4.5"
+            android:strokeLineCap="round"
+            android:strokeColor="#00E5FF" />
+        
+        <!-- Center Connection Ring / Pulse -->
+        <path
+            android:pathData="M54,42 A6,6 0 1,0 54,30 A6,6 0 1,0 54,42 Z"
+            android:fillColor="#FFD166" />
+        
+        <!-- Left Hand Gesturing (ASL/Sign gesture shape) -->
+        <path
+            android:pathData="M32,74 C30,68 33,62 38,62 C40,62 42,64 43,67 L44,60 C44,57 47,56 49,58 C50,60 50,62 50,65 L51,61 C52,58 55,58 56,61 C57,63 56,66 56,69 L53,77 C50,83 40,84 34,79 Z"
+            android:fillColor="#E0F2FE" />
+        
+        <!-- Right Hand Answering Gesturing -->
+        <path
+            android:pathData="M76,74 C78,68 75,62 70,62 C68,62 66,64 65,67 L64,60 C64,57 61,56 59,58 C58,60 58,62 58,65 L57,61 C56,58 53,58 52,61 C51,63 52,66 52,69 L55,77 C58,83 68,84 74,79 Z"
+            android:fillColor="#38BDF8" />
+            
+        <!-- Soundwave / Speech to Sign Signal lines -->
+        <path
+            android:pathData="M46,36 C50,33 58,33 62,36"
+            android:strokeWidth="2.5"
+            android:strokeLineCap="round"
+            android:strokeColor="#FFD166" />
+        <path
+            android:pathData="M41,29 C48,24 60,24 67,29"
+            android:strokeWidth="2.5"
+            android:strokeLineCap="round"
+            android:strokeColor="#FBBF24" />
+    </group>
+</vector>
